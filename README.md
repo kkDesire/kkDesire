@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kkDesire
 - 👀 I’m interested in web programming and mobile application development
-- 🌱 I’m currently learning Symfony, Flutter & Dart
+- 🌱 I’m currently work with Laravel, Flutter & Dart, Vuejs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
