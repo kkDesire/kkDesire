@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kkDesire
 - 👀 I’m interested in web programming and mobile application development
-- 🌱 I’m currently work with vuejs, nuxt, quasar, adonisjs, nestjs, react Native
+- 🌱 I’m currently work with vuejs, nuxt, quasar, adonisjs, nestjs, react Native, adonisjs, reactjs, nextjs
 
 <!---
 kkDesire/kkDesire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
