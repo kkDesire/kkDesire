@@ -39,6 +39,6 @@
 <div align="left" style="font-family: 'Alegreya', serif; display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkDesire&theme=github-dark" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api?username=kkDesire&show_icons=true&theme=github_dark&hide_title=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkDesire&layout=compact&theme=github_dark" height="150"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkDesire&layout=compact&theme=github_dark" height="150"/> -->
 </div>
 
